@@ -1,0 +1,156 @@
+body{
+    background-color: rgb(244, 221, 164);
+}
+.starters{
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin:5px;
+    gap: 25px;
+}
+.starters-1{
+    background-color: lightcyan;
+    font-size: 15px;
+     border: 5px dashed pink;
+     border-radius: 15px;
+                    width: 100px;
+                    height: 200px;
+                    padding: 25px 20px;
+             }
+                .starters-2{
+                    background-color: rgb(187, 233, 187);
+                    font-size: 15px;
+                    border-radius: 15px;
+                    border: 5px dashed pink;
+                    width: 100px;
+                    height: 200px;
+                    padding: 25px 20px;
+             }
+                .starters-3{
+                    background-color: lightyellow;
+                    font-size: 15px;
+                    border-radius: 15px;
+                    border: 5px dashed pink;
+                    width: 100px;
+                    height: 200px;
+                    padding: 25px 20px;
+             }
+             .Main-course{
+                 width: auto;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin:5px;
+    gap: 25px;
+             }
+             .Main-1{
+                border: 5px dashed blue;
+                border-radius: 15px;
+                background-color: lightskyblue;
+                font-size: 11px;
+                width: 100px;
+                height: 200px;
+                padding: 25px 20px;
+                /* line-height: 15px; */
+ }  
+ .Main-2{
+ border: 5px dashed blue;
+                border-radius: 15px;
+                background-color: rgb(190, 118, 189);
+                font-size: 11px;
+                width: 100px;
+                height: 200px;
+                padding: 25px 20px;
+ }      
+ .Main-3{
+    border: 5px dashed blue;
+    border-radius: 15px;
+    width: 100px;
+    height: 200px;
+    padding: 25px 20px;
+    font-size: 11px;
+    background-color: lightslategrey;
+ }  
+ .desserts{
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 25px;
+ }    
+ .desserts-1{
+    border: 5px dashed rgb(129, 209, 10);
+                border-radius: 15px;
+                background-color: rgb(189, 134, 217);
+                font-size: 11px;
+                width: 100px;
+                height: 200px;
+                padding: 25px 20px;
+                margin:5px;
+                /* line-height: 15px; */
+ }
+ .desserts-2{
+border: 5px dashed rgb(129, 209, 10);
+                border-radius: 15px;
+                background-color: rgb(165, 214, 246);
+                font-size: 15px;
+                width: 100px;
+                height: 200px;
+                padding: 25px 20px;
+                /* line-height: 15px; */
+ }
+ .desserts-3{
+    border: 5px dashed rgb(129, 209, 10);
+                border-radius: 15px;
+                background-color: rgb(180, 236, 159);
+                font-size: 15px;
+                width: 100px;
+                height: 200px;
+                padding: 25px 20px;
+                /* line-height: 20px; */
+ }
+          h1{
+            font-size: 28px;
+            font-weight: 900;
+            color: brown;
+            font-weight:900;
+            font-style:oblique;
+            /* text-decoration: underline; */
+            text-transform: capitalize;
+            text-align: center;
+            border: 2PX SOLID black;
+            padding: 10PX;
+          }  
+          p{
+            font-size: 6px;
+            font-family: 'Times New Roman', Times, serif;
+            font-family: "Sofia", sans-serif;
+  font-size: 6px;
+  text-shadow: 3px 3px 3px #ababab;
+          }
+          .one{
+            color: crimson;
+             font-size: 17px;
+             font-family: 'Times New Roman', Times, serif;
+          }
+          ul{
+            background-color: aqua;
+            text-decoration: none;
+            display: flex;
+            list-style-type: none;
+            justify-content: space-between;
+            height: 25px;
+            text-align: center;
+            margin: 10px;
+            padding-right: 30px;
+          }
+          
+            footer{text-align: center;
+        margin: 10px;}
+        h3{
+            text-align: center;
+        }
